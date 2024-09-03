@@ -1,4 +1,4 @@
-# A Comparative Analysis of HLS Optimizations for ML Models
+# High-Level Synthesis for Human Activity Recognition Model
 
 ## Project Overview
 
