@@ -1,4 +1,4 @@
-# High-Level Synthesis for Human Activity Recognition Model
+# Comparative Analysis of High Level Synthesis for HAR CNN Model
 
 ## Project Overview
 
